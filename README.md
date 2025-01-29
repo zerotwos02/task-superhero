@@ -19,41 +19,6 @@
 
 ---
 
-## 📦 Installation and Setup
-
-### Prerequisites
-- Node.js (v14 or higher)
-- npm or yarn installed
-
-### Backend Setup
-1. Clone this repository:  
-   ```bash
-   git clone <repository_url>
-   cd humble-superhero-api
-
-2. Install dependencies:
-
-
-npm install
-Start the server:
-
-    npm run start:dev
-The API will be available at http://localhost:4000.
-
-### Frontend Setup (Optional)
-Navigate to the frontend folder:
-
-    cd superhero-fr
-Install dependencies:
-
-    npm install
-Start the development server:
-
-    npm start
-The React app will be available at http://localhost:3000.
-
----
-
 ## 🧪 Testing
 Run the tests with:
 
